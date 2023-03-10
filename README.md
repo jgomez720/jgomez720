@@ -1,4 +1,6 @@
-### Hi there 👋
+My name is Josh Gomez. I am a multi-disciplinary engineer specializing in mechanical, audio, and software design.
+
+I currently work for [KittyCAD](https://kittycad.io/), a revolutionary idea to mechanical design and CAD software :gear:
 
 <!--
 **jgomez720/jgomez720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
