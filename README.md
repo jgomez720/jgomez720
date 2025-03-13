@@ -1,4 +1,4 @@
-# Hi, I'm Josh Gomez!
+My name is Josh Gomez.
 
 ## About Me
 I'm a multi-disciplinary engineer passionate about pushing the boundaries of technology. My expertise spans across:
