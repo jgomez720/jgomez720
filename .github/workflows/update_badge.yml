@@ -27,12 +27,24 @@ jobs:
             | jq '.total_count')
 
           echo "Total issues: $COUNT"
-          echo "![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-$COUNT-blue)" > issue_badge.md
+          BADGE="![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-$COUNT-blue)"
+          
+          # Create README.md if it doesn't exist
+          if [ ! -f README.md ]; then
+            echo "# My GitHub Profile" > README.md
+          fi
+          
+          # Update the badge in README.md
+          if grep -q "!\[Modeling App Issues\]" README.md; then
+            sed -i '' "s|!\[Modeling App Issues\].*|$BADGE|" README.md
+          else
+            echo -e "\n$BADGE" >> README.md
+          fi
 
       - name: Update README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add issue_badge.md
+          git add README.md
           git commit -m "Updated issue count badge" || echo "No changes to commit"
           git push
