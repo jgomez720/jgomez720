@@ -9,3 +9,5 @@ I work for [Zoo](https://zoo.dev/), a revolutionary idea to mechanical design an
 
 Modeling App Issues Created
 ![](issue_badge.md)
+
+![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-139-blue)
