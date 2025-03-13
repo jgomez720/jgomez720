@@ -19,6 +19,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: |
+          # Print the API response for debugging
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/issues?q=repo:KittyCAD/modeling-app+type:issue+author:jgomez720"
+          
           COUNT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
             "https://api.github.com/search/issues?q=repo:KittyCAD/modeling-app+type:issue+author:jgomez720" \
             | jq '.total_count')
