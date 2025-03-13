@@ -7,4 +7,5 @@ I work for [Zoo](https://zoo.dev/), a revolutionary idea to mechanical design an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/josh-gomez-037107aa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jgomez720/)
 
+Modeling App Issues Created
 ![](issue_badge.md)
