@@ -1,4 +1,4 @@
-My name is Josh Gomez. I am a multi-disciplinary engineer specializing in mechanical, audio, and software design.
+My name is Josh Gomez. I love all forms of engineering, but my specialties are mechanical, audio, and software. 
 
 I work for [Zoo](https://zoo.dev/), a revolutionary idea to mechanical design and CAD software.
 
