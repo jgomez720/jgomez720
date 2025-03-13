@@ -7,7 +7,7 @@ I'm a multi-disciplinary engineer passionate about pushing the boundaries of tec
 - Software Engineering
 
 ## Current Role
-I'm currently working at [Zoo](https://zoo.dev/), where we're revolutionizing mechanical design and CAD software through innovative cloud-based solutions.
+I'm currently working at [Zoo](https://zoo.dev/), where we're revolutionizing mechanical design and CAD software using modern tools.
 
 ## Connect With Me
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jgomez720)
@@ -15,4 +15,7 @@ I'm currently working at [Zoo](https://zoo.dev/), where we're revolutionizing me
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jgomez720/)
 
 ## Contributions
+
+**KittyCAD/modeling-app**
+
 ![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-139-blue)
