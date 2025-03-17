@@ -40,11 +40,6 @@ jobs:
             echo -e "\n$BADGE" >> README.md
           fi
           
-      - name: Ensure issue_badge.md exists
-        run: |
-          touch issue_badge.md
-          echo "Issue badge file verified."
-
       - name: Update and Push 
         run: |
           git config --global user.name "github-actions[bot]"
