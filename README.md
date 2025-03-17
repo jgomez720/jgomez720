@@ -18,5 +18,4 @@ I'm currently working at [Zoo](https://zoo.dev/), where we're revolutionizing me
 
 **KittyCAD/modeling-app**
 
-![](issue_badge.md)
-
+![Modeling App Issues](https://raw.githubusercontent.com/jgomez720/jgomez720/main/issue_badge.md)
