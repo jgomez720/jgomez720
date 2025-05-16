@@ -16,4 +16,4 @@ I'm currently working at [Zoo](https://zoo.dev/), where we're revolutionizing me
 
 ## Contributions
 
-**KittyCAD/modeling-app**: ![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-183-blue)
+**KittyCAD/modeling-app**: ![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-184-blue)
