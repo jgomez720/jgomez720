@@ -10,7 +10,3 @@ I'm a multi-disciplinary engineer passionate about pushing the boundaries of tec
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jgomez720)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-gomez-037107aa/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Josh_R_Gomez)
-
-## Contributions
-
-**KittyCAD/modeling-app**: ![Modeling App Issues](https://img.shields.io/badge/Issues%20Created-187-blue)
